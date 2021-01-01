@@ -46,7 +46,7 @@ function draw() {
   log2.display();
   log3.display();
 
- image(img,1000,550,20,50)
+ image(img,880,380,235,200)
   drawSprites();
 }
 
